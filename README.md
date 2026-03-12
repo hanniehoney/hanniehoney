@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi, I'm Hannie Liu 👋
 
 <!--
 **hanniehoney/hanniehoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Connect
+
+[![X](https://img.shields.io/badge/hannieliu-%231DA1F2.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/hannie_liu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannieliu)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hanniehoney)
+[![Website](https://img.shields.io/badge/Website-hannieliu.com-blue?style=flat&logo=safari&logoColor=white)](https://hannieliu.com/)
+
 -->
