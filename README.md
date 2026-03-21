@@ -14,6 +14,13 @@ Want my full professional journey, or just in for a fun fact? Head over to [my w
 - A career spent among founders and the startup ecosystem
 - Obsessed with how people make decisions & modeling human behavior
 
+### 🕹 Projects
+
+Outside of work, I love catching the random “ugh, this is annoying” moments my friends mention and turning them into small, easy-to-use tools.
+
+- **[DeepRead](https://github.com/hanniehoney/deepread)**: Helps language learners read long-form articles with less friction using one-click extraction and inline explanations.
+- **[Capiis](https://github.com/hanniehoney/Capiis)**: Helps people manage their assets and wealth locally, without sharing their financial data with someone else.
+
 
 ### 🤝 Let’s Connect
 
